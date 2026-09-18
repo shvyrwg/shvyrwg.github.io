@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "166ccf6b95a3d13f04fcf339",
+  "owner": "shvyrwg",
+  "repo": "shvyrwg.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "09c991c265b4eb499426f9e0",
+      "a": "NaiKo",
+      "b": "官方发布页",
+      "entity": "NaiKo",
+      "brand": "NaiKo",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0d592c11a80a2a9a163ac69ce54a31c5faca9a69cb3ade1937286d24ff4a88f2",
+      "content": {
+        "primary_entity": "NaiKo",
+        "keyword1": "NaiKo",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，手机端、电脑端与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，在客户端填入订阅信息即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连上 NaiKo",
+          "AI_DESCRIPTION": "，围绕不同设备与预算提供基础版、旗舰版和团队版三档订阅，支持按年付优惠。手机、电脑和路由器均可通过对应客户端导入订阅使用，旗舰版及团队版在高带宽节点和流媒体解锁上提供更多选择，适合对速度和设备数量有更高要求的用户。",
+          "AI_FAQ_ANSWER_1": "根据同时在线设备数和月流量选择。手机加电脑两到三台可选基础版，五台左右或需要流媒体全解锁选旗舰版，二十台以上多人使用选团队版。",
+          "AI_FAQ_ANSWER_2": "订阅信息由服务方提供，按所选客户端文档里的订阅导入步骤操作，填入地址后同步节点列表即可使用。",
+          "AI_FAQ_ANSWER_3": "不同套餐设备上限不同，基础版支持三台，旗舰版五台，团队版二十台。多设备同时在线会占用对应名额，按需选择即可。",
+          "AI_FAQ_ANSWER_4": "可先用月付体验线路和速度，确认适合日常使用后再转年付方案，年付整体费用更划算。",
+          "AI_FAQ_ANSWER_5": "路由器端需先在设备上安装支持订阅导入的插件，再将订阅链接填入插件完成配置，让家中所有设备共用节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "怎么判断该选哪个套餐？",
+          "AI_FAQ_QUESTION_2": "订阅信息如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "多台设备能同时使用吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "路由器上怎么用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度整理套餐选择要点。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版覆盖三台设备，旗舰版五台，团队版二十台，按同时在线设备数选择。",
+          "AI_FEATURE_TEXT_2": "月付灵活试用，年付费用更低，适合长期使用的用户。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "节点层级差异",
+          "AI_GUIDE_INTRO": "从选套餐到完成客户端配置，三步即可使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "NaiKo 提供多档海外加速订阅方案，按设备数量、流量与预算选择基础版、旗舰版或团队版，在常用客户端导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与用量选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同设备数量",
+          "AI_HIGHLIGHT_2": "手机电脑路由器多端适配",
+          "AI_HIGHLIGHT_3": "月付年付自由选择",
+          "AI_PLANS_INTRO": "根据日常设备数量与流量使用情况，对比三档套餐后选择适合的方案。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数与月流量需求，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与客户端适配要求，确认设备满足条件。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅配置文档，填入订阅信息并同步节点后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "NaiKo 加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "55950a7a9d65afcb6daa8423ec050045881b7aa309cbf1f8a2c61c34a451ff26",
+    "sitemap.xml": "5275b40f62aa9661aed5392d96dc0a57a8e7e7bb227b3e8f19241e305e8fc387",
+    "robots.txt": "477571c126929c2951b4cd97732a88cf3d59d57717b22f6787efd211e4a1ed53",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "5d36f620324d20d06eefe2e8f1ea10ad58c7cc2e98f1d9b6fcc85fc892142d28"
+}
